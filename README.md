@@ -1,4 +1,4 @@
-### Hi there , I am Abhinav 👋
+### Hi , I'm Abhinav 👋
 
 🌱 I’m currently learning Web Development
 ⚡Studing Bachelor's of Technology in Computer Science and Engineering
