@@ -1,7 +1,8 @@
 ### Hi there , I am Abhinav 👋
 
 🌱 I’m currently learning Web Development
-
+⚡Studing Bachelor's of Technology in Computer Science and Engineering
+🔭 I’m currently working on React Js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavChauhan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
